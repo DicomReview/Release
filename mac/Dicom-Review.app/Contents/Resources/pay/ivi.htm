@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Dicom Review</title>
+        <link rel="stylesheet" type="text/css" href="JS_URL/res/jquery.mobile.css"> </link>
+        <script type="text/javascript" src="JS_URL/res/jquery.js"></script>
+        <script type="text/javascript" src="JS_URL/res/jquery.mobile.js"></script>
+        
+    </head>
+    <body>
+        <div data-role="page" data-theme="f">
+            
+            
+            
+            <div role="main" class="ui-content">
+                <div>
+                    <h1>Notes:</h1>
+                    
+                    <p>You must have a paypal account or credit card to pay for your order. When start to pay, it will step into <strong>PayPal</strong> to complete this payment.</p>
+                    
+                    
+                </div>
+                <div align="center">
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick"></input>
+                        <input type="hidden" name="hosted_button_id" value="L9H4R2TJ5DZBY"></input>
+                        <table>
+                            <tr><td><input type="hidden" name="on0" value="Term of License">Choose a license</td></tr><tr><td><select name="os0">
+                                <option value="One Year">One Year $ 10.00 USD</option>
+                                <option value="One Month">One Month $ 1.00 USD</option>
+                            </select> </td></tr>
+                        </table>
+                        <div style="padding:20px 30px">
+                        </div>
+                        <input type="hidden" name="currency_code" value="USD"></input>
+                        <input type="hidden" name="custom" value="CUSTOM_URL"></input>
+                        <input type="image" src="https://www.paypalobjects.com/zh_XC/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1"></input>
+                    </form>
+                    
+                    
+                    
+                </div>
+            </div>
+            <div data-role="footer" data-position="fixed">
+                <div align="center">
+                    <p>support:<strong>lining@dicomreview.com</strong></p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
