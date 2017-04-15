@@ -1,0 +1,33 @@
+DicomReview is the best personal PACS and dicom viewer. It can query and retrieve dicom files from CT,MR,DR,PET/CT,PACS software etc. It is easy for doctors to review dicom studies, and share files with friends. We have a free DicomReview Desktop version to work with this APP. Please visit www.dicomreview.com to get more details.
+
+Features:
+1. Manage the dicom files
+2. Import the dicom file from the local storage disk
+3. Manage the capturd images
+4. Send  the dicom files to other node by C-Store protocal
+5.  Manage the favorite dicom files
+6. Support CT,MR,DR,PET,CR, etc
+7. Support the multiframe dicom file
+8. MPR display
+9. Support the change of the window level and the CLUT
+10. ROI Management
+11. Display the meta info of dicom
+
+DicomReview is not to be designed for mammography. Officially. DicomReview is not designed as a medical diagnostic tool. Doctor can use it as a research tool. Patient can use it as a personal data store.
+
+DicomReview是最好的私人影像工作站。它能查询和接受来自CT,MR,DR,PET/CT,PACS软件等医疗设备的Dicom文件，支持2D浏览，3D显示，MIP重建，MPR重建等。他使医生更加方便的浏览医学影像，并且和朋友们交流分享。DicomReview同时提供免费的桌面版影像工作站和移动设备同时使用。请访问www.dicomreview.com获取更多信息。
+
+功能特点:
+1. 管理Dicom文件
+2. 从本地存储中导入Dicom文件
+3. 管理截屏文件
+4. 将Dicom文件发送给其他PACS节点
+5.  管理收藏的Dicom文件
+6. 支持CT,MR,DR,PET,CR等设备
+7. 支持一个Dicom文件中有多帧图像（Multiframe）
+8. MPR显示
+9. 支持窗宽窗位和伪彩色调整
+10. 感兴趣区管理
+11. 显示Dicom文件中的Tag信息
+
+DicomReview不支持乳腺专用影像设备的图像。特殊备注，DicomReivew不是一款设计用来做临床医学诊断的工具。您可以把它作为一个做医学影像学习和研究的工具，或者用来作影像存储软件。
