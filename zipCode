@@ -1,0 +1,3 @@
+#!/bin/sh
+
+zip -e /Users/ningsj/Desktop/anaImage/data/github/Release/t.zip /Users/ningsj/Desktop/anaImage/data/github/Release/t/*
